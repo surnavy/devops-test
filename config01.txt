@@ -1,0 +1,4 @@
+devops-test configuration
+
+// since : 2025-04-07
+// delete : author
